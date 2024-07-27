@@ -1,4 +1,4 @@
-<h1>Weather-APP/h1>
+<h1>Weather-APP</h1>
 
 <h3>Introduction</h3>
 Welcome to the Weather App! This project provides a simple and intuitive way to check current weather conditions and forecasts for any location. Built with modern web technologies, the app fetches real-time weather data and displays it in a user-friendly format. Whether you're planning your day or just curious about the weather, this app offers accurate and up-to-date information.
